@@ -1,0 +1,9 @@
+approach,mae_MW,archived_source,test_month,periods
+Four-week same-period mean,1843.867103495,temporal_tcn_v1/quick/pooled_scores.csv,2025-12,1488
+Random forest,1285.849613475,algorithm_comparison/monthly_scores.csv,2025-12,1488
+Gradient boosting,1100.711598541,algorithm_comparison/monthly_scores.csv,2025-12,1488
+MLP,941.990015254,multiresolution_multiyear_v2/2025-12/pooled_scores.csv,2025-12,1488
+Single-scale TCN,1002.099529307,temporal_tcn_v1/quick/pooled_scores.csv,2025-12,1488
+Multi-scale temporal,785.679130964,multiresolution_multiyear_v2/2025-12/pooled_scores.csv,2025-12,1488
+Condition-matched memory,807.797680000,v2_vs_v61_A_matched_audit/2025-12,2025-12,1488
+NESO published forecast,632.313172043,multi-resolution + paired audit,2025-12,1488
